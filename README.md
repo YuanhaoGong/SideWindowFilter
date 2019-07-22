@@ -18,6 +18,17 @@ A typical example to show the side window filter is the side window box filter. 
     doi={10.1109/TIP.2017.2658954}, 
     ISSN={1057-7149}, 
     month={April},}
+    
+@INPROCEEDINGS{gong:swf, 
+author={Y. {Gong} and B. {Liu} and X. {Hou} and G. {Qiu}}, 
+booktitle={2018 IEEE Visual Communications and Image Processing (VCIP)}, 
+title={Sub-window Box Filter}, 
+year={2018}, 
+pages={1-4}, 
+doi={10.1109/VCIP.2018.8698682}, 
+ISSN={1018-8770}, 
+month={Dec},}
+
 @inproceedings{swfilter, 
     author={Hui Yin and Yuanhao Gong and Guoping Qiu}, 
     Booktitle = {CVPR}, 

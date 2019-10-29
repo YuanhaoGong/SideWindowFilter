@@ -3,7 +3,7 @@ function result=SideWindowBoxFilter(im, radius, iteration)
 %        2) Side Window Filtering, H.Yin, Y.Gong, G.Qiu. CVPR2019
 %implemented by Yuanhao Gong
 
-r = radius; 
+r = radius; %the radius of the side window
 k = ones(2*r+1,1)/(2*r+1); %separable kernel 
 k_L=k; k_L(r+2:end)=0; k_L = k_L/sum(k_L); %half kernel
 k_R=flipud(k_L); 

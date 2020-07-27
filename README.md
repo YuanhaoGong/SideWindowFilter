@@ -1,6 +1,6 @@
 # Side Window Filtering (CVPR2019 oral, #5176)
 
-SideWindowBoxFilter is online. More filters are coming soon :)
+Side Window Box Filter is online. This code is implemented by Yuanhao Gong. 
 
 ## Side Window Box Filter
 A typical example to show the side window filter is the side window box filter. The original box filter does not preserve edges. But with side window technique, side window box filter can preserve edges and corners, as shown in following figure. The MATLAB code is provided.
